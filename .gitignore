@@ -1,0 +1,22 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+<<<<<<< HEAD
+=======
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+/app/views/rechnr/perpetuity.blade.php
+>>>>>>> 2884624420135e3548e68bedb94b45324b9dfeae
